@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto
+# 🎁 Projeto Amigo Secreto
 
 Uma aplicação simples em **JavaScript, HTML e CSS** para realizar sorteios de “Amigo Secreto”. Permite adicionar nomes, visualizar a lista, remover nomes e sortear um amigo de forma aleatória.
 
